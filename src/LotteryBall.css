@@ -1,0 +1,13 @@
+.LotteryBall {
+    display: inline-block;
+    background: black;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 0;
+    background: radial-gradient(circle at 100px 100px, #5cabff, #000);
+    text-align: center;
+    font-size: 3.5em;
+    font-weight: 800;
+    color: white;
+}
